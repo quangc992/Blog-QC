@@ -164,7 +164,8 @@ box-shadow: 17px 13px 26px 7px rgba(0,0,0,0.8);
 }
 
 .onclickMenu-xs{
-    position: fixed;
+    position: fixed ;
+    z-index: 99999;
     top: 0;
     left: 0;
     width: 100%;
